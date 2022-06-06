@@ -62,7 +62,7 @@ img {
   }
 }
 
-h1 {
+.head {
   color: #fff;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 800;
@@ -71,7 +71,7 @@ h1 {
   transition:0.3s linear;
   }
 
-.current h1 {
+.current .head {
   animation: animateh1 0.3s 0.2s linear forwards 1;
   }
 
